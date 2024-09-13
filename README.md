@@ -1,6 +1,6 @@
 # Diabetes Prediction Flask Web App
 
-![diabetes](https://github.com/pavisuja/Diabetes)
+![diabetes](https://github.com/pavisuja/Diabetes/a.jpg)
 
 
 This repository contains the code for a web-based diabetes prediction application using a machine learning model. The application is built using Flask and allows users to input various health parameters to predict the likelihood of diabetes.
